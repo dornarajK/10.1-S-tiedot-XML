@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "fast-xml-parser": "^4.4.1",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.11.0",
+    "node-fetch": "^3.3.2",
+    "pg": "^8.12.0"
+  }
+}
